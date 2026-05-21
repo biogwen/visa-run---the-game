@@ -1,0 +1,43 @@
+# Nomad Roles
+
+## Embassy Contact
+
+**Ability:** Each night, choose one player and one document type. You learn whether that document is Valid, Invalid or Unknown.
+
+**Purpose:** Finds contaminated documents, not alignments.
+
+## Remote Worker
+
+**Ability:** Once per game, protect your Dossier from sabotage tonight.
+
+**Purpose:** Defensive role with simple timing.
+
+## Paranoid Planner
+
+**Ability:** Each morning, receive a hint about the day's crisis before the group acts.
+
+**Purpose:** Anticipates danger and detects diversion.
+
+## Overstayer
+
+**Ability:** You are good, but if your Overstay Risk is publicly revealed, Heat increases by 2.
+
+**Purpose:** Good player with a dangerous secret.
+
+## Backpacker
+
+**Ability:** You have no night ability. If Active on the final day, your final vote counts double.
+
+**Purpose:** Social observation role.
+
+## Local Fixer
+
+**Ability:** Once per game, repair one Expired, Suspicious or Pending document, or cancel one crisis.
+
+**Purpose:** Risky rescue role.
+
+## Border Runner
+
+**Ability:** Once per game, secretly move one document from one player to another.
+
+**Purpose:** Enables deals, saves and betrayals.

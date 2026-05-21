@@ -1,0 +1,32 @@
+# MkDocs Navigation
+
+site_name: Visa Run Wiki
+site_description: Rules and reference wiki for Visa Run: The Border Is Closing
+nav:
+  - Home: README.md
+  - Start Here:
+      - What is Visa Run?: start-here/what-is-visa-run.md
+      - Quick Start Guide: start-here/quick-start-guide.md
+      - Game Objective: start-here/game-objective.md
+      - Player Count and Duration: start-here/player-count-and-duration.md
+      - First Game Setup: start-here/first-game-setup.md
+  - Core Rules:
+      - Game Flow: core-rules/game-flow.md
+      - Night Phase: core-rules/night-phase.md
+      - Morning Briefing: core-rules/morning-briefing.md
+      - Private Chats: core-rules/private-chats.md
+      - Public Accusation: core-rules/public-accusation.md
+      - Vote Phase: core-rules/vote-phase.md
+      - Crisis Reveal: core-rules/crisis-reveal.md
+      - Final Border Check: core-rules/final-border-check.md
+  - Dossier System:
+      - What is a Dossier?: dossier-system/what-is-a-dossier.md
+      - Dossier Structure: dossier-system/dossier-structure.md
+      - Audit Types: dossier-system/audit-types.md
+      - Dossier Status Tokens: dossier-system/dossier-status-tokens.md
+  - Roles:
+      - Full Role Index: roles/full-role-index.md
+      - Nomad Roles: roles/nomad-roles.md
+      - Scammer Roles: roles/scammer-roles.md
+      - Independent Roles: roles/independent-roles.md
+  - Glossary: glossary/index.md
