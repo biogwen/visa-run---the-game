@@ -12,7 +12,7 @@ Use this page to run a first game without reading the entire wiki.
 
 ## Setup
 
-1. Choose one player to be The Fixer.
+1. The Fixer explain the goal.
 2. Choose a script, preferably the Beginner Script.
 3. Give each player one hidden Role card.
 4. Give each player a Dossier with documents.
