@@ -4,7 +4,7 @@ Use this page to run a first game without reading the entire wiki.
 
 ## Recommended first game
 
-- Players: 9, including The Fixer
+- Players: 9
 - Duration: 60 to 75 minutes
 - Teams: 6 Nomads, 2 Scammers, 1 Independent
 - Days: 5 maximum
