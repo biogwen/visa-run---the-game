@@ -1,0 +1,47 @@
+{
+  "id": "my-custom-scenario",
+  "name": "My Custom Scenario",
+  "difficulty": "Custom",
+  "description": "Short description of the scenario.",
+  "legalExitsNeeded": 5,
+  "maxHeat": 6,
+  "startingHeat": 0,
+  "players": [
+    {
+      "id": 1,
+      "name": "Player 1",
+      "role": "Embassy Contact",
+      "team": "Nomad",
+      "status": [
+        "Active"
+      ],
+      "notes": "Role notes for the Fixer.",
+      "history": [],
+      "dossier": [
+        {
+          "visibleName": "Passport",
+          "secretTruth": "Valid",
+          "visibleToPlayer": true,
+          "source": "setup",
+          "notes": "",
+          "cleared": false
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "id": 1,
+      "name": "Random Passport Check",
+      "type": "Light Crisis",
+      "text": "Public text read to players.",
+      "fixer": "Secret Fixer instructions."
+    }
+  ],
+  "nightOrder": [
+    {
+      "role": "Embassy Contact",
+      "prompt": "Choose one player and one document type."
+    }
+  ]
+}

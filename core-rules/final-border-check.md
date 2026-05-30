@@ -1,23 +1,20 @@
 # Final Border Check
 
-The Final Border Check happens at the end of the last day.
+At the end of Day 5, the Fixer runs the Final Border Check.
 
-## Step 1: Check Heat
+Only Active players count as legal exits.
 
-Heat determines how strict the border is.
+A player usually needs:
 
-## Step 2: Check Active players
+- Passport
+- Visa Stamp
+- Exit Ticket
 
-Only Active players can count as legal exits. Deported players may still win with their team, but they do not count as legal exits.
+At Heat 2+, they also need 1 Supporting Document.
 
-## Step 3: Resolve each Dossier
+At Heat 4+, they usually need 2 Supporting Documents or 1 Supporting Document plus 1 Cleared key document.
 
-The Fixer checks each Active player's documents against the current border requirements.
+For 9 players:
 
-## Step 4: Count legal exits
-
-Compare legal exits to the required threshold for the script.
-
-## Step 5: Resolve personal victories
-
-After the main team victory is resolved, check Independent victory conditions.
+- 5 legal exits or more: Nomads can win
+- 4 legal exits or fewer: Scammers win

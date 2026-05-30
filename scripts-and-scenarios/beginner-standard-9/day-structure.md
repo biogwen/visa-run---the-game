@@ -1,6 +1,6 @@
-# Game Flow
+# Day Structure
 
-Each day has seven phases:
+Beginner day structure:
 
 1. Night Phase
 2. Morning Briefing
@@ -10,4 +10,4 @@ Each day has seven phases:
 6. Vote Phase
 7. Crisis Reveal
 
-The game ends after Day 5 with the Final Border Check.
+Only one Official Check per day.

@@ -1,25 +1,7 @@
 # Nomads
 
-Nomads are the good team.
+Nomads win if enough players can legally leave.
 
-## Goal
+In the beginner 9-player game, Nomads need **5 legal exits**.
 
-They win if enough players can legally leave before the border closes.
-
-## What Nomads know
-
-Nomads usually know their own role, their visible documents and some private information. They often do not know whether their documents are truly valid.
-
-## How Nomads win
-
-Nomads win by building reliable information chains:
-
-- Which documents are fake?
-- Who gave those documents?
-- Who blocked checks?
-- Who defended bad advice?
-- Who increased Heat?
-
-## Nomad challenge
-
-Not every suspicious player is a Scammer. Some good players are hiding complications.
+A Nomad may look suspicious because of bad paperwork. Good players can have bad Dossiers.

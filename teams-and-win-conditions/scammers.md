@@ -1,25 +1,14 @@
 # Scammers
 
-Scammers are the evil team.
+Scammers win if too few players can leave.
 
-## Goal
+They can win by:
 
-They win if too few players can legally leave, or if the script's special Scammer condition is met.
+- adding Unofficial Documents
+- weakening Official Checks
+- increasing Heat
+- pushing risky shortcuts
+- using bluff roles
+- making good players distrust each other
 
-## What Scammers know
-
-Scammers may know each other, depending on script size. In smaller games, they usually know each other.
-
-## How Scammers win
-
-Scammers win by making the group misread its own information:
-
-- Give fake documents to good players
-- Block key checks
-- Push audits that expose good players
-- Increase Heat without taking blame
-- Make good players defend bad documents honestly
-
-## Scammer challenge
-
-Scammers must create chaos without making all problems trace back to them.
+In the beginner game, Scammers win if 4 or fewer players can legally leave.

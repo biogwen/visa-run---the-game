@@ -1,111 +1,90 @@
 # Summary
 
-This file can be used as a GitBook-style table of contents.
+- [Home](README.md)
 
-- [Visa Run Wiki](README.md)
-- Start Here
-  - [What is Visa Run?](start-here/what-is-visa-run.md)
-  - [Quick Start Guide](start-here/quick-start-guide.md)
-  - [Game Objective](start-here/game-objective.md)
-  - [Player Count and Duration](start-here/player-count-and-duration.md)
-  - [First Game Setup](start-here/first-game-setup.md)
-- Core Rules
-  - [Game Flow](core-rules/game-flow.md)
-  - [Night Phase](core-rules/night-phase.md)
-  - [Morning Briefing](core-rules/morning-briefing.md)
-  - [Private Chats](core-rules/private-chats.md)
-  - [Public Accusation](core-rules/public-accusation.md)
-  - [Vote Phase](core-rules/vote-phase.md)
-  - [Crisis Reveal](core-rules/crisis-reveal.md)
-  - [Final Border Check](core-rules/final-border-check.md)
-- Teams and Win Conditions
-  - [Nomads](teams-and-win-conditions/nomads.md)
-  - [Scammers](teams-and-win-conditions/scammers.md)
-  - [Independents](teams-and-win-conditions/independents.md)
-  - [Shared Victory](teams-and-win-conditions/shared-victory.md)
-  - [Personal Victory](teams-and-win-conditions/personal-victory.md)
-  - [Edge Cases](teams-and-win-conditions/edge-cases.md)
-- The Dossier System
-  - [What is a Dossier?](dossier-system/what-is-a-dossier.md)
-  - [Dossier Structure](dossier-system/dossier-structure.md)
-  - [Identity Cards](dossier-system/identity-cards.md)
-  - [Core Documents](dossier-system/core-documents.md)
-  - [Supporting Documents](dossier-system/supporting-documents.md)
-  - [Hidden Complications](dossier-system/hidden-complications.md)
-  - [Document Certainty](dossier-system/document-certainty.md)
-  - [Audit Types](dossier-system/audit-types.md)
-  - [Dossier Status Tokens](dossier-system/dossier-status-tokens.md)
-  - [Final Border Check Logic](dossier-system/final-border-check-logic.md)
-- Document Cards
-  - [Document Card Overview](document-cards/document-card-overview.md)
-  - [Core Documents](document-cards/core-documents.md)
-  - [Supporting Documents](document-cards/supporting-documents.md)
-  - [Risk Documents](document-cards/risk-documents.md)
-  - [Fake Documents](document-cards/fake-documents.md)
-  - [Expired Documents](document-cards/expired-documents.md)
-  - [Suspicious Documents](document-cards/suspicious-documents.md)
-  - [Document States](document-cards/document-states.md)
-  - [How Documents Are Created](document-cards/how-documents-are-created.md)
-  - [How Documents Are Destroyed](document-cards/how-documents-are-destroyed.md)
-  - [Full Document Card List](document-cards/full-document-card-list.md)
-- Crisis Cards and Heat
-  - [What Are Crisis Cards?](crisis-cards-and-heat/what-are-crisis-cards.md)
-  - [Crisis Timing](crisis-cards-and-heat/crisis-timing.md)
-  - [Crisis Categories](crisis-cards-and-heat/crisis-categories.md)
-  - [Heat Track Overview](crisis-cards-and-heat/heat-track-overview.md)
-  - [Heat Thresholds](crisis-cards-and-heat/heat-thresholds.md)
-  - [Heat Increase Triggers](crisis-cards-and-heat/heat-increase-triggers.md)
-  - [Heat Reduction](crisis-cards-and-heat/heat-reduction.md)
-  - [Crisis Resolution](crisis-cards-and-heat/crisis-resolution.md)
-  - [Full Crisis Card List](crisis-cards-and-heat/full-crisis-card-list.md)
-- Roles
-  - [Role Categories](roles/role-categories.md)
-  - [Nomad Roles](roles/nomad-roles.md)
-  - [Scammer Roles](roles/scammer-roles.md)
-  - [Independent Roles](roles/independent-roles.md)
-  - [Traveller and Guest Roles](roles/traveller-and-guest-roles.md)
-  - [Role Interaction Rules](roles/role-interaction-rules.md)
-  - [Night Order](roles/night-order.md)
-  - [Full Role Index](roles/full-role-index.md)
-- The Fixer Guide
-  - [How to Run the Game](fixer-guide/how-to-run-the-game.md)
-  - [Setup Procedure](fixer-guide/setup-procedure.md)
-  - [How to Give Information](fixer-guide/how-to-give-information.md)
-  - [How to Handle Lies](fixer-guide/how-to-handle-lies.md)
-  - [How to Balance the Game](fixer-guide/how-to-balance-the-game.md)
-  - [How to Manage Heat](fixer-guide/how-to-manage-heat.md)
-  - [How to Resolve Ambiguity](fixer-guide/how-to-resolve-ambiguity.md)
-  - [Fixer Cheat Sheet](fixer-guide/fixer-cheat-sheet.md)
-- Scripts and Scenarios
-  - [Beginner Script](scripts-and-scenarios/beginner-script.md)
-  - [Standard Script](scripts-and-scenarios/standard-script.md)
-  - [High Chaos Script](scripts-and-scenarios/high-chaos-script.md)
-  - [Visa Nightmare Script](scripts-and-scenarios/visa-nightmare-script.md)
-  - [Coworking Variant](scripts-and-scenarios/coworking-variant.md)
-  - [Tax Haven Variant](scripts-and-scenarios/tax-haven-variant.md)
-  - [Custom Script Builder](scripts-and-scenarios/custom-script-builder.md)
-- Strategy Guide
-  - [How Nomads Detect Scammers](strategy-guide/how-nomads-detect-scammers.md)
-  - [How Scammers Create Confusion](strategy-guide/how-scammers-create-confusion.md)
-  - [How Independents Should Play](strategy-guide/how-independents-should-play.md)
-  - [Reading Dossiers](strategy-guide/reading-dossiers.md)
-  - [Reading Votes](strategy-guide/reading-votes.md)
-  - [Private Chat Strategy](strategy-guide/private-chat-strategy.md)
-  - [Common Mistakes](strategy-guide/common-mistakes.md)
-- Examples
-  - [Example First Round](examples/example-first-round.md)
-  - [Example Full Game](examples/example-full-game.md)
-  - [Example Final Border Check](examples/example-final-border-check.md)
-  - [Example Dossier Audit](examples/example-dossier-audit.md)
-  - [Example Scammer Play](examples/example-scammer-play.md)
-  - [Example Fixer Rulings](examples/example-fixer-rulings.md)
-- Glossary
-  - [Glossary Index](glossary/index.md)
-- Print and Play
-  - [Role Sheets](print-and-play/role-sheets.md)
-  - [Document Cards](print-and-play/document-cards.md)
-  - [Crisis Cards](print-and-play/crisis-cards.md)
-  - [Dossier Mats](print-and-play/dossier-mats.md)
-  - [Heat Track](print-and-play/heat-track.md)
-  - [Fixer Sheet](print-and-play/fixer-sheet.md)
-  - [Setup Tables](print-and-play/setup-tables.md)
+## Start Here
+- [What is Visa Run?](start-here/what-is-visa-run.md)
+- [Quick Start Guide](start-here/quick-start-guide.md)
+- [Beginner Standard Game Overview](start-here/beginner-standard-game-overview.md)
+- [What Players Need to Know](start-here/what-players-need-to-know.md)
+
+## Core Rules
+- [Game Flow](core-rules/game-flow.md)
+- [Night 0 Setup](core-rules/night-0-setup.md)
+- [Night Phase](core-rules/night-phase.md)
+- [Official Check Phase](core-rules/official-check-phase.md)
+- [Final Border Check](core-rules/final-border-check.md)
+- [Public Role Claims and Exposed](core-rules/public-role-claims-and-exposed.md)
+
+## Teams and Win Conditions
+- [Nomads](teams-and-win-conditions/nomads.md)
+- [Scammers](teams-and-win-conditions/scammers.md)
+- [Independents](teams-and-win-conditions/independents.md)
+- [Scammer Network Hints](teams-and-win-conditions/scammer-network-hints.md)
+
+## Dossier System
+- [What is a Dossier?](dossier-system/what-is-a-dossier.md)
+- [Dossier Results](dossier-system/dossier-results.md)
+- [Visible Document vs Fixer Truth](dossier-system/visible-document-vs-fixer-truth.md)
+- [Status Tokens](dossier-system/status-tokens.md)
+
+## Official Checks
+- [Official Checks Overview](official-checks/official-checks-overview.md)
+- [Embassy Check](official-checks/embassy-check.md)
+- [Immigration Office Check](official-checks/immigration-office-check.md)
+- [Check Results](official-checks/check-results.md)
+- [Why Document-by-Document Audit is Removed](official-checks/why-document-audit-is-removed.md)
+
+## Document Cards
+- [Document Overview](document-cards/document-overview.md)
+- [Document States](document-cards/document-states.md)
+- [Unofficial Documents](document-cards/unofficial-documents.md)
+- [Core Documents](document-cards/core-documents.md)
+- [Supporting Documents](document-cards/supporting-documents.md)
+
+## Crisis Cards and Heat
+- [Heat Track](crisis-cards-and-heat/heat-track.md)
+- [Heat Increase and Decrease](crisis-cards-and-heat/heat-increase-and-decrease.md)
+- [Crisis Cards Overview](crisis-cards-and-heat/crisis-cards-overview.md)
+
+## Roles
+- [Role Categories](roles/role-categories.md)
+- [Beginner Role Script](roles/beginner-role-script.md)
+- [Nomad Roles](roles/nomads/index.md)
+- [Scammer Roles](roles/scammers/index.md)
+- [Independent Roles](roles/independents/index.md)
+- [Bluff Roles](roles/bluffs/index.md)
+
+## Fixer Guide
+- [Fixer Guide v0.2](fixer-guide/fixer-guide-v0-2.md)
+- [Fixer Language](fixer-guide/fixer-language.md)
+- [Running Official Checks](fixer-guide/running-official-checks.md)
+- [Balancing the Beginner Game](fixer-guide/balancing-the-beginner-game.md)
+
+## Beginner Standard 9-Player Script
+- [Full Rules Presentation](scripts-and-scenarios/beginner-standard-9/full-rules-presentation.md)
+- [Setup Sheet](scripts-and-scenarios/beginner-standard-9/setup-sheet.md)
+- [Role List and Bluffs](scripts-and-scenarios/beginner-standard-9/role-list-and-bluffs.md)
+- [Day Structure](scripts-and-scenarios/beginner-standard-9/day-structure.md)
+
+## Strategy Guide
+- [Nomad Strategy](strategy-guide/nomad-strategy.md)
+- [Scammer Strategy](strategy-guide/scammer-strategy.md)
+- [Crypto Bro Strategy](strategy-guide/crypto-bro-strategy.md)
+
+## Examples
+- [Example Day with Official Check](examples/example-day-with-official-check.md)
+- [Example Scammer Network Hint](examples/example-scammer-network-hint.md)
+- [Example Fake Visa Agent Play](examples/example-fake-visa-agent-play.md)
+
+## Glossary
+- [Glossary](glossary/glossary.md)
+
+## Print and Play
+- [Player Quick Sheet](print-and-play/player-quick-sheet.md)
+- [Fixer Quick Sheet](print-and-play/fixer-quick-sheet.md)
+- [Beginner Script Sheet](print-and-play/beginner-script-sheet.md)
+
+## Design Notes
+- [Playtest Changes](design-notes/playtest-changes.md)
+- [Balance Notes](design-notes/balance-notes.md)
