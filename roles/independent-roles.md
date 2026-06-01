@@ -23,3 +23,9 @@
 **Objective:** Win if you leave without valid Proof of Funds.
 
 **Ability:** You may hide one Supporting Document from inspection once per game.
+
+## Border Runner ????
+
+**Ability:** Once per game, secretly move one document from one player to another.
+
+**Objective:** Enables deals, saves and betrayals
