@@ -46,4 +46,4 @@ This is the prototype Crisis Card catalogue.
 - Final Border Window
 - Remote Work Crackdown
 - Lockdown Warning
-- Deportation needed
+- Deportation needed (The planner must make the team deport one of the 2 players designated byt the story teller)
