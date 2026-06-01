@@ -34,10 +34,9 @@
 
 **Ability:** Once per game, repair one Expired, Suspicious or Pending document, or cancel one crisis.
 
-**Purpose:** Risky rescue role.
+**Purpose:** Risky rescue role..
 
-## Border Runner
+## Chill Guy
+**Objective**: Win if the game reaches Day 5 and you are not Deported.
 
-**Ability:** Once per game, secretly move one document from one player to another.
-
-**Purpose:** Enables deals, saves and betrayals.
+**Purpose**: None. You are just here for the vibes.
