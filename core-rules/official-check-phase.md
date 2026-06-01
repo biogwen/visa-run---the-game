@@ -1,6 +1,6 @@
 # Official Check Phase
 
-Once per day, after Public Debate, the group may choose one player for an **Official Check**.
+Once per day, after Public Debate, the group may choose two player for an **Official Check**.
 
 The group chooses:
 
