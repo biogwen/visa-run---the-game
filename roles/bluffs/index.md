@@ -20,8 +20,4 @@ Claim vague Crisis hints.
 
 ## Document Clerk
 
-Claim Dossier-level information.
-
-## Chill Guy
-
-Claim a personal objective to explain weird behavior.
+Claim Dossier-level information..
