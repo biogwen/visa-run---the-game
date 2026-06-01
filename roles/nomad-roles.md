@@ -40,3 +40,14 @@
 **Objective**: Win if the game reaches Day 5 and you are not Deported.
 
 **Purpose**: None. You are just here for the vibes.
+
+
+## Visa agent
+
+**Ability:** Can fix visa stamp, exit ticket. Depending on the scenario there is a chance the document is suspicious.
+
+**Purpose:**
+
+## Bank employee
+
+**Ability:** Can provide proof of Fund and bank statement. Depending on the scenario there is a chance the document is suspicious.
