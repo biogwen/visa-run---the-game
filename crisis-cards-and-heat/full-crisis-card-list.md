@@ -46,3 +46,4 @@ This is the prototype Crisis Card catalogue.
 - Final Border Window
 - Remote Work Crackdown
 - Lockdown Warning
+- Deportation needed
